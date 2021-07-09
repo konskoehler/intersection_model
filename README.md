@@ -1,6 +1,6 @@
 # intersection_model
 
-External simulation model that can be linked to SUMO to enable realistic left turning behavior of cyclists at a single signaled intersection. To enable realisitc bicycle behavior at multiple intersections, multiple intersection_model instances need to be used. In that case, the given implementation needs to be forked so that the intersection_model does not start the SUMO simulation when executed, but is linkable to a running SUMO simulation. 
+External simulation model that can be linked to SUMO to enable realistic left turning behavior of cyclists at a single signaled intersection. To enable realisitc bicycle behavior at multiple intersections, multiple intersection_model instances need to be used. In that case, the given implementation needs to be forked so that the intersection_model does not start the SUMO simulation when executed, but is linked to a running SUMO simulation. 
 
 The model was implemented and tested using Python3.6.
 
