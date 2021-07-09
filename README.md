@@ -4,7 +4,7 @@ External simulation model that can be linked to SUMO to enable realistic left tu
 
 The model was implemented and tested using Python3.6.
 
-To run the model, the respective variables in `settings.py` need to be set. 
+To run the model, the respective variables in `settings.py` need to be set. Then run `main.py`. 
 
 By default, the model runs an exemplary scenario featuring the intersection Alexanderstr./Karl-Marx-Str. in Berlin.  
 
