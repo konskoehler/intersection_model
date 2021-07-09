@@ -1,0 +1,10 @@
+<configuration>
+    <input>    
+        <net-file value="alex.net.xml"/>
+        <route-files value="alex.trips.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="8000"/>
+    </time>
+</configuration>
